@@ -7,7 +7,7 @@ export const AppBar = () => {
         <div className="border-b flex justify-between px-10 py-4">
             <Link to={"/blogs"} className="flex-col justify-center">
             <div >
-                <img src="../../public/Medium.jpg" style={{ width: '200px', height: 'auto' }}></img>
+                <img src="/Medium.jpg" style={{ width: '200px', height: 'auto' }}></img>
             </div>
             </Link>
             <div>
